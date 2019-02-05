@@ -7,5 +7,5 @@ Instructions to use this:
 Download the Stykz software and install it.
 Downlaod the rocketlaunch.stykz file.
 Open the rocketlaunch.stykz file with the Stykz software. Now you can access each frame and see how it works.
-You can see the gif file attached here to see the animation.
+You can see the gif file- rocketlaunch2.gif attached here to see the animation.
 
